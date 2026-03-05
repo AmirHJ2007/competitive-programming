@@ -20,7 +20,7 @@ The goal of this repository is to document interesting problems and their soluti
 
 ## Codeforces Problems
 
-| Problem | Main Topic |
+| Problem | Technique |
 |-------|------|
 | Baby Ehab Plays with Permutations | Combinatorics / DP |
 | Bessie's Birthday Cake (Hard) | Greedy / Geometry |
